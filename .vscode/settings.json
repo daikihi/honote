@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "sqlite local",
+            "database": "${workspaceFolder:honote}/db/honey.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
